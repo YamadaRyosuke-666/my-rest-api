@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'YamadaRyosuke'// yourname
-global.MONGO_DB_URI = "mongodb+srv://ryosukeofficialwb:<konfirmasi>@cluster0.nnaohyp.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://ryosukeofficialwb:konfirmasi@cluster0.nnaohyp.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "ryosuke.official.wb@gmail.com" //email
 global.email_password = "yamada" //application password email
